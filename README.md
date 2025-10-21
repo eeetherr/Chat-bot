@@ -150,23 +150,6 @@ chatbot-api/
 
 ---
 
-## Contributing
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Commit changes: `git commit -m "Description"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
 
 For any inquiries, feel free to reach out:
 
