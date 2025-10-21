@@ -149,10 +149,3 @@ chatbot-api/
 - **Alembic**: Database migrations.
 
 ---
-
-
-For any inquiries, feel free to reach out:
-
-- **Name**: Muhammed Yuguda
-- **Email**: elemenx93@gmail.com
-- **Location**: Lagos, Nigeria
